@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
-    <title>Document</title>
+    <title></title>
 </head>
 <body>
     <header><h1>My Hobbies and Interests</h1>
